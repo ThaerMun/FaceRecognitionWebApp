@@ -1,4 +1,4 @@
-# FacerecognitionApp :-
+# WherefaceApp :-
 Front End :-
 
 1. Clone this repo
