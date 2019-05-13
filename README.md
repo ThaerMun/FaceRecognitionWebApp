@@ -1,4 +1,4 @@
-# SmartBrain - v1
+# FacerecognitionApp - v1
 Final project:-
 
 1. Clone this repo
