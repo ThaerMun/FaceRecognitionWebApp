@@ -2,7 +2,7 @@
 Front End :-
 
 1. Clone this repo
-2. Go to the FaceRecognitionWebApp-Front-End directory
+2. Go to the "Whereface-Front-End" directory
 3. Run `npm install`
 4. Run `npm start`
 5. Go to: localhost:3000
